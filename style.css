@@ -1,0 +1,133 @@
+
+  h1{
+    background-color:black;
+    color: white;
+    padding: 50px;
+    text-align: 100px;
+    font-size: xx-large;
+    }
+    *{
+    margin: 0px;
+        padding: 0%;
+    }
+
+    ul{
+        padding-bottom: 20px;
+        text-align: 100px;
+        display:inline;
+    
+    }
+    li{
+    display: inline;
+    color:black;
+    text-align: left;
+    padding-inline: 30px;
+    font-size: x-large;
+
+   
+    
+    }
+    li:hover{
+        color:blueviolet;
+    }  
+    .img{
+        width: 1350px;
+
+        height: 750px;
+    }
+    .one{
+        text-align: left;
+    }
+    .two{
+        padding-bottom: 20px;
+        text-align: 100px;
+        display:inline;
+        padding:black;
+        float:right;
+    }
+   a{
+    margin-inline:45px
+   }
+
+.bh{
+    background-color: white;
+    color:black
+}  
+a{
+    color:black;
+    text-decoration: none;
+}  
+a:hover{
+    padding:auto black ;
+    border-radius: 45px;
+    color: white;
+    background-color:black;
+
+}    
+.bgm{
+    h2{
+        text-align:center;
+        font-size: 50px;
+        margin-top: 300px;
+        
+
+    }
+}
+ body{
+background:repeat: no-repeat ;
+ }          
+   
+.ser{ 
+    width: 1000px;
+    height: 500px; 
+}  
+
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.con{
+    
+    padding-top: 250px;
+    font-size: large;
+    text-align: left ;
+    margin-left: 100px;
+   
+ }
+.dis{
+    width: 500px;
+    height: 300px;
+    padding-left: 70%;
+}
+.one {
+    width: 500px;
+    height: 250px; 
+    padding-left: 60%;
+
+}  
+.four{
+    width: 700px;
+    height: 300px;
+}
+.six{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    display:inline-block ;
+    margin: center;
+}
+.six img{
+    border-radius: 13px;
+    width: 600px;
+    height: 400px;
+    cursor: pointer;
+    text-align: center;
+    border: 20px solid rgb(232, 248, 9);
+    margin: 10px;
+    transition: 440ms;
+}
